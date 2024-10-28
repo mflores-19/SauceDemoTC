@@ -1,0 +1,14 @@
+LOGIN PAGE
+---------------------------
+These are the High-Level Test Cases for saucedemo login page
+
+1. Verify "username" field is required
+2. Verify "password" field is required
+3. Verify it is not possible to log in when "username" and "password" fields are invalid
+4. Verify it is not possible to log in when "username" field is invalid and "password" field is valid
+5. Verify it is not possible to log in when "username" field is valid and "password" field is invalid
+6. Verify it is possible to log in when "username" and "password" fields are valid and clicking on "Login" button
+7. Verify it is possible to log in when "username" and "password" fields are valid and pressing "Enter" key
+8. Verify an error message is displayed when "username" field is incorrect
+9. Verify an error message is displayed when "password" field is incorrect
+10. Verify an error message is displayed when "username" and "password" fields are incorrect
